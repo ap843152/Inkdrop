@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Ink Wash Art Generator",
+  "description": "An interactive art application that simulates ink dropping into water, creating unique, semi-abstract ink wash paintings. It then uses the Gemini API to generate a poetic title and description for the artwork.",
+  "requestFramePermissions": []
+}
